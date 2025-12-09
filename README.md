@@ -77,9 +77,14 @@ python app.py
 
 Endpoint: /predict_npk
 Method: POST
-Request: multipart/form-data
+Request: 
+{
+  "image_urls": [
+    "https://example.com/soil1.jpg",
+    "https://example.com/soil2.jpg"
+  ]
+}
 
-file: <soil_image.jpg/png>
 
 
 Response Example:
