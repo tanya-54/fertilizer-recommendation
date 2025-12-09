@@ -38,8 +38,6 @@ It is designed as a backend-friendly pipeline that can be hosted as a service or
 └── README.md # Documentation
 
 
-> *Note: folder names may differ; adjust based on your repo layout.*
-
 ---
 
 ## 🧠 System Workflow
